@@ -3,11 +3,10 @@ github_notification_dummy_app!
 
 App used to test callbacks from Github service....
 
-AND MORE THING..
+AND MORE THING.
 
 :) :)
 
-MOAR THINGS!!!!
+MOAR THINGS!!!!!!!!
 
-!!!!!!!!!!!!
-
+:)
